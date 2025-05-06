@@ -30,6 +30,5 @@ I'm a **Front-End Developer** with a strong focus on building modern, responsive
 - 🌍 Portfolio: [your-portfolio-link.com](https://myportfolio-mu-pearl.vercel.app/)  
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” 
+Code is like humor. When you have to explain it, it’s bad.
 
